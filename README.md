@@ -23,6 +23,11 @@ i)	#Selection Sort
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: NAINA MOHAMED Z
 RegisterNumber:23010605 
+
+''' 
+Program to sort the elements in the list using the Selection Sort algorithm.
+Developed by: NAINA MOHAMED Z
+RegisterNumber:23010605 
 '''
 def selection_sort(array,size):
     for ind in range(size):
@@ -35,7 +40,7 @@ arr=eval(input())
 size=len(arr)
 selection_sort(arr,size)
 print(arr)
-
+    
 
 
 
